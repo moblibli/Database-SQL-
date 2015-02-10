@@ -1,6 +1,6 @@
 # Database (SQL)
 
-![](http://uxrepo.com/static/icon-sets/linecons/svg/database.svg)
+![](https://www.aplossystems.co.uk/resources/images/features/databaseManagement.jpg)
 
 
 Pada repositories kedua ini saya akan mencoba menulisakan summary dari apa yang telah saya pelajari dalam 2 hari ini
