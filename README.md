@@ -1,6 +1,4 @@
 # Database (SQL)
-% 10 Februari 2015
-
 
 ![](https://www.aplossystems.co.uk/resources/images/features/databaseManagement.jpg)
 
@@ -10,11 +8,5 @@ yaitu mengenai [**Konsep Database**](https://github.com/rizkyamelia/Database-SQL
 yaitu : **SQL Server Management Studio**
 
 Tulisan ini masih sangat sederhana, semoga dapat dipahami dan bermanfaat bagi para pembaca ;-)
-
-
-nomor   nama
------   ----
-  1      aa
-  2      bb
 
 &gt; on going my summary
