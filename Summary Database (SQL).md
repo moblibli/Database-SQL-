@@ -1,7 +1,7 @@
 # Konsep Database
 
 Singkatnya, **database merupakan kumpulan dari data-data yang bisa diolah menjadi informasi**
-dimana di setiap kumpulan data-data tersebut, terdapat satu data yang disebut ##*Primary Keyword*
+dimana di setiap kumpulan data-data tersebut, terdapat satu data yang disebut *Primary Keyword*
 
 sebelum mengarah ke praktek pengolahan database, perlu anda ketahui bahwa
 pada perkembangannya, terdapat beberapa aplikasi yang dapat digunakan untuk mengolah database.
